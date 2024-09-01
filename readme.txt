@@ -1,1 +1,1 @@
-Repository ini berisi project project nata kuliah PCVK 2024
+Repository ini berisi project project mata kuliah PCVK 2024
